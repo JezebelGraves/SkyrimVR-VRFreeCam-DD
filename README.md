@@ -103,3 +103,8 @@ Our log lines start with `DDVR:` (and `x812zl:` when ZaZ VR Lock is used).
 - VRIK by prog; HIGGS by FlyingParticle; powerofthree's Papyrus Extender by powerofthree; PapyrusUtil by its authors;
   SKSEVR by the SKSE team.
 - Patch scripts: Jezebel Graves (with AI assistants).
+
+## License
+Our patch scripts and reference code are under the [MIT License](LICENSE) (Copyright (c) 2026 Jezebel Graves).
+This does not cover Devious Devices or any other mod: your merged copy of DD NG's `zadcFurnitureScript`
+stays under the DD NG team's own terms.
